@@ -24,5 +24,4 @@ public class User {
     @Column(name ="phone_number", length = 10)
     private String phoneNumber;
 
-
 }
